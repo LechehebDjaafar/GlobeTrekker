@@ -62,8 +62,8 @@ npx live-server
 
 ## 📧 Contact
 💬 إذا كان لديك أي استفسار، لا تتردد في التواصل معي عبر:
-🌎 **Website:** [yourwebsite.com](https://yourwebsite.com)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+🌎 **Website:** [yourwebsite.com](https://lechehebdjaafar.github.io/GlobeTrekker/)  
+🐦 **Linkdine:** [@Lecheheb Djaafar](https://www.linkedin.com/in/lecheheb-djaafar-226594348/)
 
 ---
 🚀 استمتع برحلتك مع **GlobeTrekker**! 🌍✈️
